@@ -1,0 +1,167 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    background-color: #333;
+    padding: 10px;
+}
+
+.logo {
+    color: red;
+    font-size: 24px;
+    margin-right: auto;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+nav ul li a.active {
+    color: yellow;
+}
+.photo{
+    display: flex;
+}
+.head {
+    margin-top: 250px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    color: blue;
+    text-decoration: underline;
+}
+ button{
+    margin-left: 200px;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: red;
+    color: aqua;
+}
+.ph{
+    color:greenyellow;
+    padding-left: 30px;
+}
+.one{
+background-color: lightgrey;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+  background-color: aqua;
+}
+
+.two{
+    background-color: yellow;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+.three{
+    background-color: red;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+.images{
+    display: flex;
+}
+.non{
+    background-color: whitesmoke;
+    width: 250px;
+    border: 15px solid green;
+    padding: 40px;
+    margin: 20px;
+    margin-left: 50px;
+}
+.chiken{
+    margin-left: 20px;
+    color: aliceblue;
+}
+.ya{
+    background-color: whitesmoke;
+    width: 300px;
+    border: 15px solid green;
+    padding: 40px;
+    margin: 20px;
+    margin-left: 50px;
+}
+.no{
+    background-color: whitesmoke;
+    width: 250px;
+    border: 15px solid green;
+    padding: 40px;
+    margin: 20px;
+    margin-left: 50px;
+}
+.eat{
+    display: flex;
+}
+.e{
+    background-color: whitesmoke;
+    width: 300px;
+    border: 15px solid green;
+    padding: 40px;
+    margin: 20px;
+    margin-left: 50p
+}
+.g{
+    background-color: whitesmoke;
+    width: 250px;
+    border: 15px solid green;
+    padding: 40px;
+    margin: 20px;
+    margin-left: 50p;
+}
+    .t{
+        background-color: whitesmoke;
+        width: 300px;
+        border: 15px solid green;
+        padding: 40px;
+        margin: 20px;
+        margin-left: 50px;
+    }
+.veg{
+    margin-left:50px;
+    color: blue; 
+}
+.v{
+    display: flex;
+    margin-left: 20px;
+}
+.among{
+    display: flex;
+    gap:80px;
+    margin-left: 400px;
+    color: aquamarine;
+}
+.word{ 
+    margin-left: 200px;
+    color: azure;
+}
+ .ward{  
+    margin-left: 200px;
+    color: azure;
+} 
+.kumar{
+    background-color: black;
+}
+
